@@ -1,4 +1,4 @@
-# Crazy Traffic
+# Crazy Traffic - v0.1.0
 
 A modern, interactive 3D traffic control game built with React and Three.js.
 

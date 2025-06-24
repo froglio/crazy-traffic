@@ -122,6 +122,6 @@ Contributions are welcome! Please open issues or pull requests for bug fixes, ne
 
 ## 🙏 Credits
 
-- Developed by [Fabricio Roglio de Sousa]
+- Developed by Fabricio Roglio de Sousa
 - Built with [React](https://react.dev/) and [Three.js](https://threejs.org/)
 - Sound effects AI generated from [elevenlabs.ios](https://elevenlabs.io/)

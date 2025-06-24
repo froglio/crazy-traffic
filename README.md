@@ -27,7 +27,8 @@ A modern, interactive 3D traffic control game built with React and Three.js.
   - _Phase 1 – Simple Crossover:_ Learn the basics of traffic control.
   - _Phase 2 – Two Intersections:_ Manage two intersections simultaneously.
   - _Phase 3 – Heavy Traffic:_ Handle a high volume of cars with little time to think.
-- **Car Behavior:** Cars become impatient if stopped too long, honking their horns and crossing the red light. <img width="108" alt="image" src="https://github.com/user-attachments/assets/b3f04790-d95e-49f0-b402-91eb4b994c02" />
+- **Car Behavior:** Cars become impatient if stopped too long, honking their horns and crossing the red light.
+<img width="108" alt="image" src="https://github.com/user-attachments/assets/b3f04790-d95e-49f0-b402-91eb4b994c02" />
 - **Sound Effects:** Realistic audio feedback for clicks, crashes, horns, and victories.
 - **HUD:** Real-time stats, progress bar, phase info, and game controls.
 - **Progress Save:** Your progress is automatically saved in your browser.

@@ -8,7 +8,7 @@ A modern, interactive 3D traffic control game built with React and Three.js.
 
 <img width="1505" alt="image" src="https://github.com/user-attachments/assets/03de0096-653a-4952-88f7-e74b4d727037" />
 
-[🎬 Assistir ao Trailer](https://imgur.com/a/5JJtynh)
+[🎬 Assistir ao Trailer](https://streamable.com/1r5jba)
 ---
 
 ## 🎯 Objective

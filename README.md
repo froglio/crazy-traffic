@@ -13,8 +13,8 @@ A modern, interactive 3D traffic control game built with React and Three.js.
 
 ## 🎯 Objective
 
+- **Manage Flow:** Ensure the target number of cars safely pass in each phase.
 - **Prevent Collisions:** Switch traffic lights to avoid car crashes at intersections.
-- **Manage Flow:** Let as many cars as possible pass safely through each phase.
 - **Progress:** Complete all phases, each with unique layouts and increasing difficulty.
 
 ---

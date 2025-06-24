@@ -6,6 +6,10 @@ A modern, interactive 3D traffic control game built with React and Three.js.
 
 **Crazy Traffic** is a browser-based game where you take on the role of a traffic controller. Your mission: manage traffic lights at increasingly complex intersections, prevent collisions, and keep the flow of cars moving. Each phase introduces new challenges, requiring quick thinking and strategic timing.
 
+<img width="1505" alt="image" src="https://github.com/user-attachments/assets/03de0096-653a-4952-88f7-e74b4d727037" />
+<img width="108" alt="image" src="https://github.com/user-attachments/assets/b3f04790-d95e-49f0-b402-91eb4b994c02" />
+
+[![Trailer](https://imgur.com/a/o33BKNC.gif)(https://imgur.com/a/o33BKNC)
 ---
 
 ## 🎯 Objective
